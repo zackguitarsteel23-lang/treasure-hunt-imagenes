@@ -1,7 +1,7 @@
 [
  {
   "clave": "bg_mapa",
-  "archivo": "02_fondos/bg_mapa.jpg",
+  "archivo": "bg_mapa.jpg",
   "descripcion": "Mapa del tesoro sin el barquito ni botones (incluye 北南東西)",
   "x": 0,
   "y": 0,
@@ -11,7 +11,7 @@
  },
  {
   "clave": "bg_libreta",
-  "archivo": "02_fondos/bg_libreta.jpg",
+  "archivo": "bg_libreta.jpg",
   "descripcion": "Libreta / libro de la profecía: madera con papeles viejos (sin fichas)",
   "x": 0,
   "y": 0,
@@ -21,7 +21,7 @@
  },
  {
   "clave": "bg_vocabulario",
-  "archivo": "02_fondos/bg_vocabulario.jpg",
+  "archivo": "bg_vocabulario.jpg",
   "descripcion": "Pizarra verde con marco de madera",
   "x": 0,
   "y": 0,
@@ -31,7 +31,7 @@
  },
  {
   "clave": "bg_playa_inicio",
-  "archivo": "02_fondos/bg_playa_inicio.jpg",
+  "archivo": "bg_playa_inicio.jpg",
   "descripcion": "Playa con palmeras",
   "x": 0,
   "y": 0,
@@ -41,7 +41,7 @@
  },
  {
   "clave": "bg_playa_sombrilla",
-  "archivo": "02_fondos/bg_playa_sombrilla.jpg",
+  "archivo": "bg_playa_sombrilla.jpg",
   "descripcion": "Playa con mar y nubes",
   "x": 0,
   "y": 0,
@@ -51,7 +51,7 @@
  },
  {
   "clave": "bg_sirena",
-  "archivo": "02_fondos/bg_sirena.jpg",
+  "archivo": "bg_sirena.jpg",
   "descripcion": "Mar abierto",
   "x": 0,
   "y": 0,
@@ -61,7 +61,7 @@
  },
  {
   "clave": "bg_playa_moai",
-  "archivo": "02_fondos/bg_playa_moai.jpg",
+  "archivo": "bg_playa_moai.jpg",
   "descripcion": "Playa con mar y nubes",
   "x": 0,
   "y": 0,
@@ -71,7 +71,7 @@
  },
  {
   "clave": "bg_mar_barco",
-  "archivo": "02_fondos/bg_mar_barco.jpg",
+  "archivo": "bg_mar_barco.jpg",
   "descripcion": "Mar abierto",
   "x": 0,
   "y": 0,
@@ -81,7 +81,7 @@
  },
  {
   "clave": "bg_playa_casa",
-  "archivo": "02_fondos/bg_playa_casa.jpg",
+  "archivo": "bg_playa_casa.jpg",
   "descripcion": "Playa con palmeras",
   "x": 0,
   "y": 0,
@@ -91,7 +91,7 @@
  },
  {
   "clave": "bg_tormenta",
-  "archivo": "02_fondos/bg_tormenta.jpg",
+  "archivo": "bg_tormenta.jpg",
   "descripcion": "Cielo de tormenta con lluvia y mar (la ola va aparte)",
   "x": 0,
   "y": 0,
@@ -101,7 +101,7 @@
  },
  {
   "clave": "bg_isla_cueva",
-  "archivo": "02_fondos/bg_isla_cueva.jpg",
+  "archivo": "bg_isla_cueva.jpg",
   "descripcion": "Playa (el acantilado, el árbol y el matón van aparte)",
   "x": 0,
   "y": 0,
@@ -111,7 +111,7 @@
  },
  {
   "clave": "bg_cueva_1",
-  "archivo": "02_fondos/bg_cueva_1.jpg",
+  "archivo": "bg_cueva_1.jpg",
   "descripcion": "Interior de cueva en viñeta ovalada sobre negro",
   "x": 0,
   "y": 0,
@@ -121,7 +121,7 @@
  },
  {
   "clave": "bg_cueva_2",
-  "archivo": "02_fondos/bg_cueva_2.jpg",
+  "archivo": "bg_cueva_2.jpg",
   "descripcion": "Cueva más profunda en viñeta ovalada",
   "x": 0,
   "y": 0,
@@ -131,7 +131,7 @@
  },
  {
   "clave": "bg_cueva_monstruo",
-  "archivo": "02_fondos/bg_cueva_monstruo.jpg",
+  "archivo": "bg_cueva_monstruo.jpg",
   "descripcion": "Cueva con los dos pergaminos del quiz (sin texto ni monstruo)",
   "x": 0,
   "y": 0,
@@ -141,7 +141,7 @@
  },
  {
   "clave": "bg_casa_playa",
-  "archivo": "02_fondos/bg_casa_playa.jpg",
+  "archivo": "bg_casa_playa.jpg",
   "descripcion": "Playa con palmeras",
   "x": 0,
   "y": 0,
@@ -151,7 +151,7 @@
  },
  {
   "clave": "bg_barco_serpiente",
-  "archivo": "02_fondos/bg_barco_serpiente.jpg",
+  "archivo": "bg_barco_serpiente.jpg",
   "descripcion": "Mar abierto",
   "x": 0,
   "y": 0,
@@ -161,7 +161,7 @@
  },
  {
   "clave": "bg_playa_tiburones",
-  "archivo": "02_fondos/bg_playa_tiburones.jpg",
+  "archivo": "bg_playa_tiburones.jpg",
   "descripcion": "Mar con franja de arena abajo",
   "x": 0,
   "y": 0,
@@ -171,7 +171,7 @@
  },
  {
   "clave": "bg_mar_remolino",
-  "archivo": "02_fondos/bg_mar_remolino.jpg",
+  "archivo": "bg_mar_remolino.jpg",
   "descripcion": "Mar abierto",
   "x": 0,
   "y": 0,
@@ -181,7 +181,7 @@
  },
  {
   "clave": "bg_fondo_oceano",
-  "archivo": "02_fondos/bg_fondo_oceano.jpg",
+  "archivo": "bg_fondo_oceano.jpg",
   "descripcion": "Fondo marino vacío (para colocar la basura una por una)",
   "x": 0,
   "y": 0,
@@ -191,7 +191,7 @@
  },
  {
   "clave": "bg_fondo_oceano_decorado",
-  "archivo": "02_fondos/bg_fondo_oceano_decorado.jpg",
+  "archivo": "bg_fondo_oceano_decorado.jpg",
   "descripcion": "Fondo marino YA con barco hundido, buzos y toda la basura (sin la botella ni la flecha). Alternativa más simple",
   "x": 0,
   "y": 0,
@@ -201,7 +201,7 @@
  },
  {
   "clave": "bg_playa_libro",
-  "archivo": "02_fondos/bg_playa_libro.jpg",
+  "archivo": "bg_playa_libro.jpg",
   "descripcion": "Playa con palmeras",
   "x": 0,
   "y": 0,
@@ -211,7 +211,7 @@
  },
  {
   "clave": "bg_isla_monos",
-  "archivo": "02_fondos/bg_isla_monos.jpg",
+  "archivo": "bg_isla_monos.jpg",
   "descripcion": "Playa con mar (la isla va aparte)",
   "x": 0,
   "y": 0,
@@ -221,7 +221,7 @@
  },
  {
   "clave": "bg_quiz_hoy",
-  "archivo": "02_fondos/bg_quiz_hoy.jpg",
+  "archivo": "bg_quiz_hoy.jpg",
   "descripcion": "Fondo del quiz_hoy",
   "x": 0,
   "y": 0,
@@ -231,7 +231,7 @@
  },
  {
   "clave": "bg_quiz_hermana",
-  "archivo": "02_fondos/bg_quiz_hermana.jpg",
+  "archivo": "bg_quiz_hermana.jpg",
   "descripcion": "Fondo del quiz_hermana",
   "x": 0,
   "y": 0,
@@ -241,7 +241,7 @@
  },
  {
   "clave": "bg_quiz_kraken",
-  "archivo": "02_fondos/bg_quiz_kraken.jpg",
+  "archivo": "bg_quiz_kraken.jpg",
   "descripcion": "Fondo del quiz_kraken (el kraken va aparte)",
   "x": 0,
   "y": 0,
@@ -251,7 +251,7 @@
  },
  {
   "clave": "bg_quiz_cafeteria",
-  "archivo": "02_fondos/bg_quiz_cafeteria.jpg",
+  "archivo": "bg_quiz_cafeteria.jpg",
   "descripcion": "Fondo del quiz_cafeteria",
   "x": 0,
   "y": 0,
@@ -261,7 +261,7 @@
  },
  {
   "clave": "bg_quiz_libro",
-  "archivo": "02_fondos/bg_quiz_libro.jpg",
+  "archivo": "bg_quiz_libro.jpg",
   "descripcion": "Fondo del quiz_libro",
   "x": 0,
   "y": 0,
@@ -271,7 +271,7 @@
  },
  {
   "clave": "bg_quiz_cancion",
-  "archivo": "02_fondos/bg_quiz_cancion.jpg",
+  "archivo": "bg_quiz_cancion.jpg",
   "descripcion": "Fondo del quiz_cancion",
   "x": 0,
   "y": 0,
@@ -281,7 +281,7 @@
  },
  {
   "clave": "bg_quiz_clima",
-  "archivo": "02_fondos/bg_quiz_clima.jpg",
+  "archivo": "bg_quiz_clima.jpg",
   "descripcion": "Fondo del quiz_clima",
   "x": 0,
   "y": 0,
@@ -291,7 +291,7 @@
  },
  {
   "clave": "bg_pista",
-  "archivo": "02_fondos/bg_pista.jpg",
+  "archivo": "bg_pista.jpg",
   "descripcion": "Fondo de las pistas (playa con mar)",
   "x": 0,
   "y": 0,
@@ -301,7 +301,7 @@
  },
  {
   "clave": "bg_pista_alt",
-  "archivo": "02_fondos/bg_pista_alt.jpg",
+  "archivo": "bg_pista_alt.jpg",
   "descripcion": "Fondo alternativo de pistas (se usaba en の, 古い, 木, の)",
   "x": 0,
   "y": 0,
@@ -311,7 +311,7 @@
  },
  {
   "clave": "bg_pista_ie",
-  "archivo": "02_fondos/bg_pista_ie.jpg",
+  "archivo": "bg_pista_ie.jpg",
   "descripcion": "Fondo submarino de la pista 家",
   "x": 0,
   "y": 0,
@@ -321,7 +321,7 @@
  },
  {
   "clave": "bg_enfrentamiento",
-  "archivo": "02_fondos/bg_enfrentamiento.jpg",
+  "archivo": "bg_enfrentamiento.jpg",
   "descripcion": "Playa del enfrentamiento",
   "x": 0,
   "y": 0,
@@ -331,7 +331,7 @@
  },
  {
   "clave": "bg_aliados",
-  "archivo": "02_fondos/bg_aliados.jpg",
+  "archivo": "bg_aliados.jpg",
   "descripcion": "Playa de la llegada de los aliados",
   "x": 0,
   "y": 0,
@@ -341,7 +341,7 @@
  },
  {
   "clave": "bg_batalla_kanji",
-  "archivo": "02_fondos/bg_batalla_kanji.jpg",
+  "archivo": "bg_batalla_kanji.jpg",
   "descripcion": "Playa de la batalla de kanjis",
   "x": 0,
   "y": 0,
@@ -351,7 +351,7 @@
  },
  {
   "clave": "bg_batalla_final",
-  "archivo": "02_fondos/bg_batalla_final.jpg",
+  "archivo": "bg_batalla_final.jpg",
   "descripcion": "Playa de la batalla final (aplicar tono de atardecer por CSS)",
   "x": 0,
   "y": 0,
@@ -361,7 +361,7 @@
  },
  {
   "clave": "bg_victoria",
-  "archivo": "02_fondos/bg_victoria.jpg",
+  "archivo": "bg_victoria.jpg",
   "descripcion": "Playa de la victoria",
   "x": 0,
   "y": 0,
@@ -371,7 +371,7 @@
  },
  {
   "clave": "bandera_pirata",
-  "archivo": "00_comunes/bandera_pirata.png",
+  "archivo": "bandera_pirata.png",
   "descripcion": "Bandera pirata",
   "diapositiva_original": 20,
   "x": 7.8,
@@ -384,7 +384,7 @@
  },
  {
   "clave": "barco_pirata",
-  "archivo": "00_comunes/barco_pirata.png",
+  "archivo": "barco_pirata.png",
   "descripcion": "Barco pirata grande (horizonte de playa_inicio y enfrentamiento)",
   "diapositiva_original": 2,
   "x": 55.5,
@@ -397,7 +397,7 @@
  },
  {
   "clave": "botella",
-  "archivo": "00_comunes/botella.png",
+  "archivo": "botella.png",
   "descripcion": "Botella con mensaje (pequeña en los lugares y grande en las pistas)",
   "diapositiva_original": 6,
   "x": 77.7,
@@ -410,7 +410,7 @@
  },
  {
   "clave": "boton_cerrar",
-  "archivo": "00_comunes/boton_cerrar.png",
+  "archivo": "boton_cerrar.png",
   "descripcion": "Botón ❌ para cerrar (mapa, libreta, vocabulario)",
   "diapositiva_original": 3,
   "x": 91.2,
@@ -423,7 +423,7 @@
  },
  {
   "clave": "cofre",
-  "archivo": "00_comunes/cofre.png",
+  "archivo": "cofre.png",
   "descripcion": "Cofre del tesoro",
   "diapositiva_original": 20,
   "x": 66.6,
@@ -436,7 +436,7 @@
  },
  {
   "clave": "flecha",
-  "archivo": "00_comunes/flecha.png",
+  "archivo": "flecha.png",
   "descripcion": "Flecha roja de navegación (apunta a la derecha; se rota)",
   "diapositiva_original": 6,
   "x": 76.9,
@@ -449,7 +449,7 @@
  },
  {
   "clave": "icono_mapa",
-  "archivo": "00_comunes/icono_mapa.png",
+  "archivo": "icono_mapa.png",
   "descripcion": "Ícono del mapa del tesoro (esquina superior izquierda)",
   "diapositiva_original": 6,
   "x": -0.1,
@@ -462,7 +462,7 @@
  },
  {
   "clave": "papel_quemado",
-  "archivo": "00_comunes/papel_quemado.png",
+  "archivo": "papel_quemado.png",
   "descripcion": "Papel quemado donde se escribe la pista (en las pistas va girado 180°). En las pantallas de pista va girado 180° (rot 180).",
   "diapositiva_original": 8,
   "x": 61.2,
@@ -475,7 +475,7 @@
  },
  {
   "clave": "mapa_libro_profecia",
-  "archivo": "01_mapa/mapa_libro_profecia.png",
+  "archivo": "mapa_libro_profecia.png",
   "descripcion": "Libro de la profecía (予言書), abajo a la derecha del mapa → libreta",
   "diapositiva_original": 1,
   "x": 90.0,
@@ -488,7 +488,7 @@
  },
  {
   "clave": "mapa_marcador_barco",
-  "archivo": "01_mapa/mapa_marcador_barco.png",
+  "archivo": "mapa_marcador_barco.png",
   "descripcion": "Barquito con círculo rojo: marca el lugar actual en el mapa",
   "diapositiva_original": 1,
   "x": 4.1,
@@ -501,7 +501,7 @@
  },
  {
   "clave": "mapa_sirena",
-  "archivo": "01_mapa/mapa_sirena.png",
+  "archivo": "mapa_sirena.png",
   "descripcion": "Sirenita del mapa (solo aparecía en uno de los mapas; opcional)",
   "diapositiva_original": 5,
   "x": 12.1,
@@ -514,7 +514,7 @@
  },
  {
   "clave": "borracho_tirado",
-  "archivo": "03_playa_inicio/borracho_tirado.png",
+  "archivo": "borracho_tirado.png",
   "descripcion": "Hombre borracho tirado en la arena",
   "diapositiva_original": 2,
   "x": 45.4,
@@ -527,7 +527,7 @@
  },
  {
   "clave": "cana_pescar",
-  "archivo": "03_playa_inicio/cana_pescar.png",
+  "archivo": "cana_pescar.png",
   "descripcion": "Caña de pescar",
   "diapositiva_original": 2,
   "x": 19.2,
@@ -540,7 +540,7 @@
  },
  {
   "clave": "pescadito",
-  "archivo": "03_playa_inicio/pescadito.png",
+  "archivo": "pescadito.png",
   "descripcion": "Pescadito en la arena",
   "diapositiva_original": 2,
   "x": 28.1,
@@ -553,7 +553,7 @@
  },
  {
   "clave": "pescador_sentado",
-  "archivo": "03_playa_inicio/pescador_sentado.png",
+  "archivo": "pescador_sentado.png",
   "descripcion": "Pescador sentado en una estera",
   "diapositiva_original": 2,
   "x": 28.1,
@@ -566,7 +566,7 @@
  },
  {
   "clave": "pizarra_vocabulario",
-  "archivo": "03_playa_inicio/pizarra_vocabulario.png",
+  "archivo": "pizarra_vocabulario.png",
   "descripcion": "Pizarra 語彙 / Vocabulario → vocabulario. El texto 語彙 / Vocabulario se escribe encima con HTML.",
   "diapositiva_original": 2,
   "x": 73.4,
@@ -579,7 +579,7 @@
  },
  {
   "clave": "tabla_cocina",
-  "archivo": "03_playa_inicio/tabla_cocina.png",
+  "archivo": "tabla_cocina.png",
   "descripcion": "Tabla de cocina con cuchillo y tazón",
   "diapositiva_original": 2,
   "x": 19.4,
@@ -592,7 +592,7 @@
  },
  {
   "clave": "tablon_anuncios",
-  "archivo": "03_playa_inicio/tablon_anuncios.png",
+  "archivo": "tablon_anuncios.png",
   "descripcion": "Tablón de anuncios con papeles → libreta",
   "diapositiva_original": 2,
   "x": 0.1,
@@ -605,7 +605,7 @@
  },
  {
   "clave": "mujer_sombrilla",
-  "archivo": "04_playa_sombrilla/mujer_sombrilla.png",
+  "archivo": "mujer_sombrilla.png",
   "descripcion": "Mujer bajo la sombrilla → quiz_hoy",
   "diapositiva_original": 6,
   "x": 65.7,
@@ -618,7 +618,7 @@
  },
  {
   "clave": "mujer_tumbona",
-  "archivo": "04_playa_sombrilla/mujer_tumbona.png",
+  "archivo": "mujer_tumbona.png",
   "descripcion": "Mujer tomando sol en tumbona",
   "diapositiva_original": 6,
   "x": 46.6,
@@ -631,7 +631,7 @@
  },
  {
   "clave": "sirena",
-  "archivo": "05_sirena/sirena.png",
+  "archivo": "sirena.png",
   "descripcion": "Sirena sentada en una roca",
   "diapositiva_original": 10,
   "x": 64.9,
@@ -644,7 +644,7 @@
  },
  {
   "clave": "bicho",
-  "archivo": "06_playa_moai/bicho.png",
+  "archivo": "bicho.png",
   "descripcion": "Bicho / cochinilla en la arena → quiz_hermana",
   "diapositiva_original": 12,
   "x": 45.4,
@@ -657,7 +657,7 @@
  },
  {
   "clave": "moai",
-  "archivo": "06_playa_moai/moai.png",
+  "archivo": "moai.png",
   "descripcion": "Estatua moái",
   "diapositiva_original": 12,
   "x": -1.2,
@@ -670,7 +670,7 @@
  },
  {
   "clave": "nino_saltando",
-  "archivo": "06_playa_moai/nino_saltando.png",
+  "archivo": "nino_saltando.png",
   "descripcion": "Niño/hombre saltando (dice そのむしはかわいいですね!)",
   "diapositiva_original": 12,
   "x": 68.0,
@@ -683,7 +683,7 @@
  },
  {
   "clave": "barco_negro",
-  "archivo": "07_mar_barco/barco_negro.png",
+  "archivo": "barco_negro.png",
   "descripcion": "Barco negro en el mar (dice たすけて!!) → quiz_kraken",
   "diapositiva_original": 16,
   "x": 44.5,
@@ -696,7 +696,7 @@
  },
  {
   "clave": "kraken",
-  "archivo": "07_mar_barco/kraken.png",
+  "archivo": "kraken.png",
   "descripcion": "Kraken morado atrapando un barco (quiz_kraken)",
   "diapositiva_original": 17,
   "x": 12.8,
@@ -709,7 +709,7 @@
  },
  {
   "clave": "caja_carton",
-  "archivo": "08_playa_casa/caja_carton.png",
+  "archivo": "caja_carton.png",
   "descripcion": "Caja de cartón abierta → batalla_kanji",
   "diapositiva_original": 19,
   "x": 45.6,
@@ -722,7 +722,7 @@
  },
  {
   "clave": "choza_vieja",
-  "archivo": "08_playa_casa/choza_vieja.png",
+  "archivo": "choza_vieja.png",
   "descripcion": "Choza vieja y destartalada (desbloquea el final)",
   "diapositiva_original": 19,
   "x": 58.1,
@@ -735,7 +735,7 @@
  },
  {
   "clave": "ola_tormenta",
-  "archivo": "09_tormenta/ola_tormenta.png",
+  "archivo": "ola_tormenta.png",
   "descripcion": "Ola gigante con rayos y barquito (se tambalea)",
   "diapositiva_original": 27,
   "x": 14.8,
@@ -748,7 +748,7 @@
  },
  {
   "clave": "acantilado_cueva",
-  "archivo": "10_isla_cueva/acantilado_cueva.png",
+  "archivo": "acantilado_cueva.png",
   "descripcion": "Acantilado con la entrada de la cueva",
   "diapositiva_original": 29,
   "x": 52.8,
@@ -761,7 +761,7 @@
  },
  {
   "clave": "arbol_seco",
-  "archivo": "10_isla_cueva/arbol_seco.png",
+  "archivo": "arbol_seco.png",
   "descripcion": "Árbol seco",
   "diapositiva_original": 29,
   "x": -0.4,
@@ -774,7 +774,7 @@
  },
  {
   "clave": "maton",
-  "archivo": "10_isla_cueva/maton.png",
+  "archivo": "maton.png",
   "descripcion": "Matón con uniforme escolar (desaparece al entrar a la cueva)",
   "diapositiva_original": 29,
   "x": 18.7,
@@ -787,7 +787,7 @@
  },
  {
   "clave": "monstruo",
-  "archivo": "11_cueva/monstruo.png",
+  "archivo": "monstruo.png",
   "descripcion": "Monstruo (parca) grande en cueva_monstruo",
   "diapositiva_original": 32,
   "x": 41.4,
@@ -800,7 +800,7 @@
  },
  {
   "clave": "monstruo_lejos",
-  "archivo": "11_cueva/monstruo_lejos.png",
+  "archivo": "monstruo_lejos.png",
   "descripcion": "Monstruo (parca) muy pequeño al fondo de cueva_1",
   "diapositiva_original": 30,
   "x": 51.3,
@@ -813,7 +813,7 @@
  },
  {
   "clave": "monstruo_medio",
-  "archivo": "11_cueva/monstruo_medio.png",
+  "archivo": "monstruo_medio.png",
   "descripcion": "Monstruo (parca) un poco más cerca en cueva_2",
   "diapositiva_original": 31,
   "x": 50.0,
@@ -826,7 +826,7 @@
  },
  {
   "clave": "pergamino_vertical",
-  "archivo": "11_cueva/pergamino_vertical.png",
+  "archivo": "pergamino_vertical.png",
   "descripcion": "Pergamino vertical (texto del diálogo A/B y letrero de mar_remolino)",
   "diapositiva_original": 32,
   "x": 60.7,
@@ -839,7 +839,7 @@
  },
  {
   "clave": "kiosko_umi_no_ie",
-  "archivo": "12_casa_playa/kiosko_umi_no_ie.png",
+  "archivo": "kiosko_umi_no_ie.png",
   "descripcion": "Kiosko de playa 海の家 → quiz_cafeteria",
   "diapositiva_original": 35,
   "x": 32.7,
@@ -852,7 +852,7 @@
  },
  {
   "clave": "surfista",
-  "archivo": "12_casa_playa/surfista.png",
+  "archivo": "surfista.png",
   "descripcion": "Chica surfista",
   "diapositiva_original": 35,
   "x": 9.8,
@@ -865,7 +865,7 @@
  },
  {
   "clave": "asustada_mujer",
-  "archivo": "13_barco_serpiente/asustada_mujer.png",
+  "archivo": "asustada_mujer.png",
   "descripcion": "Mujer asustada en la casa flotante",
   "diapositiva_original": 39,
   "x": 49.8,
@@ -878,7 +878,7 @@
  },
  {
   "clave": "asustado_hombre",
-  "archivo": "13_barco_serpiente/asustado_hombre.png",
+  "archivo": "asustado_hombre.png",
   "descripcion": "Hombre asustado en la casa flotante",
   "diapositiva_original": 39,
   "x": 71.2,
@@ -891,7 +891,7 @@
  },
  {
   "clave": "casa_flotante",
-  "archivo": "13_barco_serpiente/casa_flotante.png",
+  "archivo": "casa_flotante.png",
   "descripcion": "Casa flotante",
   "diapositiva_original": 39,
   "x": 49.6,
@@ -904,7 +904,7 @@
  },
  {
   "clave": "jefe_gritando",
-  "archivo": "13_barco_serpiente/jefe_gritando.png",
+  "archivo": "jefe_gritando.png",
   "descripcion": "Jefe gritando",
   "diapositiva_original": 39,
   "x": 59.7,
@@ -917,7 +917,7 @@
  },
  {
   "clave": "persona_muneca",
-  "archivo": "13_barco_serpiente/persona_muneca.png",
+  "archivo": "persona_muneca.png",
   "descripcion": "Persona abrazando una muñeca",
   "diapositiva_original": 39,
   "x": 64.8,
@@ -930,7 +930,7 @@
  },
  {
   "clave": "pescador_salvavidas",
-  "archivo": "13_barco_serpiente/pescador_salvavidas.png",
+  "archivo": "pescador_salvavidas.png",
   "descripcion": "Pescador (dice これをとって) → quiz_libro",
   "diapositiva_original": 39,
   "x": 82.9,
@@ -943,7 +943,7 @@
  },
  {
   "clave": "salvavidas",
-  "archivo": "13_barco_serpiente/salvavidas.png",
+  "archivo": "salvavidas.png",
   "descripcion": "Salvavidas (donde flota la botella)",
   "diapositiva_original": 39,
   "x": 83.6,
@@ -956,7 +956,7 @@
  },
  {
   "clave": "serpiente_marina",
-  "archivo": "13_barco_serpiente/serpiente_marina.png",
+  "archivo": "serpiente_marina.png",
   "descripcion": "Serpiente marina gigante junto a un velero",
   "diapositiva_original": 39,
   "x": 9.1,
@@ -969,7 +969,7 @@
  },
  {
   "clave": "acantilado",
-  "archivo": "14_playa_tiburones/acantilado.png",
+  "archivo": "acantilado.png",
   "descripcion": "Acantilado de roca (arriba a la derecha)",
   "diapositiva_original": 43,
   "x": 61.6,
@@ -982,7 +982,7 @@
  },
  {
   "clave": "aleta_tiburon",
-  "archivo": "14_playa_tiburones/aleta_tiburon.png",
+  "archivo": "aleta_tiburon.png",
   "descripcion": "Aleta de tiburón (se usa 4 veces)",
   "diapositiva_original": 43,
   "x": 71.3,
@@ -995,7 +995,7 @@
  },
  {
   "clave": "botellas_plastico",
-  "archivo": "14_playa_tiburones/botellas_plastico.png",
+  "archivo": "botellas_plastico.png",
   "descripcion": "Botellas plásticas recogidas",
   "diapositiva_original": 43,
   "x": 63.0,
@@ -1008,7 +1008,7 @@
  },
  {
   "clave": "caja_cervezas",
-  "archivo": "14_playa_tiburones/caja_cervezas.png",
+  "archivo": "caja_cervezas.png",
   "descripcion": "Caja de cervezas → quiz_cancion",
   "diapositiva_original": 43,
   "x": 73.6,
@@ -1021,7 +1021,7 @@
  },
  {
   "clave": "hombre_levantandose",
-  "archivo": "14_playa_tiburones/hombre_levantandose.png",
+  "archivo": "hombre_levantandose.png",
   "descripcion": "Hombre que se levanta (dice あきらめない)",
   "diapositiva_original": 43,
   "x": 81.4,
@@ -1034,7 +1034,7 @@
  },
  {
   "clave": "perro_rabioso",
-  "archivo": "14_playa_tiburones/perro_rabioso.png",
+  "archivo": "perro_rabioso.png",
   "descripcion": "Perro rabioso en el acantilado",
   "diapositiva_original": 43,
   "x": 88.6,
@@ -1047,7 +1047,7 @@
  },
  {
   "clave": "persona_enamorada",
-  "archivo": "14_playa_tiburones/persona_enamorada.png",
+  "archivo": "persona_enamorada.png",
   "descripcion": "Persona flechada por el amor",
   "diapositiva_original": 43,
   "x": 23.2,
@@ -1060,7 +1060,7 @@
  },
  {
   "clave": "porristas",
-  "archivo": "14_playa_tiburones/porristas.png",
+  "archivo": "porristas.png",
   "descripcion": "Porristas (dicen コウタくん、がんばれ!!)",
   "diapositiva_original": 43,
   "x": 4.9,
@@ -1073,7 +1073,7 @@
  },
  {
   "clave": "tiburon_boquiabierto",
-  "archivo": "14_playa_tiburones/tiburon_boquiabierto.png",
+  "archivo": "tiburon_boquiabierto.png",
   "descripcion": "Tiburón boquiabierto (megamouth)",
   "diapositiva_original": 43,
   "x": 29.1,
@@ -1086,7 +1086,7 @@
  },
  {
   "clave": "jabali_nadando",
-  "archivo": "15_mar_remolino/jabali_nadando.png",
+  "archivo": "jabali_nadando.png",
   "descripcion": "Jabalí nadando",
   "diapositiva_original": 47,
   "x": 66.3,
@@ -1099,7 +1099,7 @@
  },
  {
   "clave": "letrero_hint",
-  "archivo": "15_mar_remolino/letrero_hint.png",
+  "archivo": "letrero_hint.png",
   "descripcion": "Letrero 「ヒント」",
   "diapositiva_original": 47,
   "x": 82.1,
@@ -1112,7 +1112,7 @@
  },
  {
   "clave": "ninos_nadando",
-  "archivo": "15_mar_remolino/ninos_nadando.png",
+  "archivo": "ninos_nadando.png",
   "descripcion": "Dos niños nadando en un flotador",
   "diapositiva_original": 47,
   "x": 8.3,
@@ -1125,7 +1125,7 @@
  },
  {
   "clave": "remolino_basura",
-  "archivo": "15_mar_remolino/remolino_basura.png",
+  "archivo": "remolino_basura.png",
   "descripcion": "Remolino lleno de basura → fondo_oceano",
   "diapositiva_original": 47,
   "x": 34.7,
@@ -1138,7 +1138,7 @@
  },
  {
   "clave": "barco_hundido",
-  "archivo": "16_fondo_oceano/barco_hundido.png",
+  "archivo": "barco_hundido.png",
   "descripcion": "Barco hundido",
   "diapositiva_original": 48,
   "x": 26.9,
@@ -1151,7 +1151,7 @@
  },
  {
   "clave": "basura_bolsa_basura_azul",
-  "archivo": "16_fondo_oceano/basura_bolsa_basura_azul.png",
+  "archivo": "basura_bolsa_basura_azul.png",
   "descripcion": "Bolsa de basura azul",
   "diapositiva_original": 48,
   "x": 16.2,
@@ -1164,7 +1164,7 @@
  },
  {
   "clave": "basura_bolsa_snacks",
-  "archivo": "16_fondo_oceano/basura_bolsa_snacks.png",
+  "archivo": "basura_bolsa_snacks.png",
   "descripcion": "Bolsa de snacks vacía",
   "diapositiva_original": 48,
   "x": 69.9,
@@ -1177,7 +1177,7 @@
  },
  {
   "clave": "basura_botella_aplastada_1",
-  "archivo": "16_fondo_oceano/basura_botella_aplastada_1.png",
+  "archivo": "basura_botella_aplastada_1.png",
   "descripcion": "Botella plástica aplastada",
   "diapositiva_original": 48,
   "x": 84.2,
@@ -1190,7 +1190,7 @@
  },
  {
   "clave": "basura_botella_aplastada_2",
-  "archivo": "16_fondo_oceano/basura_botella_aplastada_2.png",
+  "archivo": "basura_botella_aplastada_2.png",
   "descripcion": "Botella plástica aplastada",
   "diapositiva_original": 48,
   "x": 81.4,
@@ -1203,7 +1203,7 @@
  },
  {
   "clave": "basura_botella_aplastada_3",
-  "archivo": "16_fondo_oceano/basura_botella_aplastada_3.png",
+  "archivo": "basura_botella_aplastada_3.png",
   "descripcion": "Botella plástica aplastada",
   "diapositiva_original": 48,
   "x": 23.8,
@@ -1216,7 +1216,7 @@
  },
  {
   "clave": "basura_botella_aplastada_4",
-  "archivo": "16_fondo_oceano/basura_botella_aplastada_4.png",
+  "archivo": "basura_botella_aplastada_4.png",
   "descripcion": "Botella plástica aplastada",
   "diapositiva_original": 48,
   "x": 39.4,
@@ -1229,7 +1229,7 @@
  },
  {
   "clave": "basura_botella_aplastada_5",
-  "archivo": "16_fondo_oceano/basura_botella_aplastada_5.png",
+  "archivo": "basura_botella_aplastada_5.png",
   "descripcion": "Botella plástica aplastada",
   "diapositiva_original": 48,
   "x": 54.1,
@@ -1242,7 +1242,7 @@
  },
  {
   "clave": "basura_botella_plastico",
-  "archivo": "16_fondo_oceano/basura_botella_plastico.png",
+  "archivo": "basura_botella_plastico.png",
   "descripcion": "Botella plástica",
   "diapositiva_original": 48,
   "x": 72.1,
@@ -1255,7 +1255,7 @@
  },
  {
   "clave": "basura_botella_salsa",
-  "archivo": "16_fondo_oceano/basura_botella_salsa.png",
+  "archivo": "basura_botella_salsa.png",
   "descripcion": "Botella de salsa de soya",
   "diapositiva_original": 48,
   "x": 10.5,
@@ -1268,7 +1268,7 @@
  },
  {
   "clave": "basura_caja_rota",
-  "archivo": "16_fondo_oceano/basura_caja_rota.png",
+  "archivo": "basura_caja_rota.png",
   "descripcion": "Caja de cartón rota",
   "diapositiva_original": 48,
   "x": 45.5,
@@ -1281,7 +1281,7 @@
  },
  {
   "clave": "basura_chatarra",
-  "archivo": "16_fondo_oceano/basura_chatarra.png",
+  "archivo": "basura_chatarra.png",
   "descripcion": "Chatarra de metal",
   "diapositiva_original": 48,
   "x": 27.1,
@@ -1294,7 +1294,7 @@
  },
  {
   "clave": "basura_control_roto",
-  "archivo": "16_fondo_oceano/basura_control_roto.png",
+  "archivo": "basura_control_roto.png",
   "descripcion": "Control de videojuego roto",
   "diapositiva_original": 48,
   "x": 12.7,
@@ -1307,7 +1307,7 @@
  },
  {
   "clave": "basura_extintor",
-  "archivo": "16_fondo_oceano/basura_extintor.png",
+  "archivo": "basura_extintor.png",
   "descripcion": "Extintor",
   "diapositiva_original": 48,
   "x": 41.7,
@@ -1320,7 +1320,7 @@
  },
  {
   "clave": "basura_frasco_suplementos",
-  "archivo": "16_fondo_oceano/basura_frasco_suplementos.png",
+  "archivo": "basura_frasco_suplementos.png",
   "descripcion": "Frasco de suplementos",
   "diapositiva_original": 48,
   "x": 83.5,
@@ -1333,7 +1333,7 @@
  },
  {
   "clave": "basura_guitarra_rota",
-  "archivo": "16_fondo_oceano/basura_guitarra_rota.png",
+  "archivo": "basura_guitarra_rota.png",
   "descripcion": "Guitarra rota",
   "diapositiva_original": 48,
   "x": 70.7,
@@ -1346,7 +1346,7 @@
  },
  {
   "clave": "basura_lata",
-  "archivo": "16_fondo_oceano/basura_lata.png",
+  "archivo": "basura_lata.png",
   "descripcion": "Lata vacía",
   "diapositiva_original": 48,
   "x": 62.3,
@@ -1359,7 +1359,7 @@
  },
  {
   "clave": "basura_lata_aplastada",
-  "archivo": "16_fondo_oceano/basura_lata_aplastada.png",
+  "archivo": "basura_lata_aplastada.png",
   "descripcion": "Lata aplastada",
   "diapositiva_original": 48,
   "x": 83.3,
@@ -1372,7 +1372,7 @@
  },
  {
   "clave": "basura_libros_viejos",
-  "archivo": "16_fondo_oceano/basura_libros_viejos.png",
+  "archivo": "basura_libros_viejos.png",
   "descripcion": "Libros viejos amarrados",
   "diapositiva_original": 48,
   "x": 40.7,
@@ -1385,7 +1385,7 @@
  },
  {
   "clave": "basura_maletin",
-  "archivo": "16_fondo_oceano/basura_maletin.png",
+  "archivo": "basura_maletin.png",
   "descripcion": "Maletín",
   "diapositiva_original": 48,
   "x": 80.2,
@@ -1398,7 +1398,7 @@
  },
  {
   "clave": "basura_maniqui",
-  "archivo": "16_fondo_oceano/basura_maniqui.png",
+  "archivo": "basura_maniqui.png",
   "descripcion": "Maniquí",
   "diapositiva_original": 48,
   "x": 1.7,
@@ -1411,7 +1411,7 @@
  },
  {
   "clave": "basura_pale_madera",
-  "archivo": "16_fondo_oceano/basura_pale_madera.png",
+  "archivo": "basura_pale_madera.png",
   "descripcion": "Palé de madera",
   "diapositiva_original": 48,
   "x": 10.6,
@@ -1424,7 +1424,7 @@
  },
  {
   "clave": "basura_plastica",
-  "archivo": "16_fondo_oceano/basura_plastica.png",
+  "archivo": "basura_plastica.png",
   "descripcion": "Basura plástica (botella de champú, cubeta, gancho)",
   "diapositiva_original": 48,
   "x": 17.6,
@@ -1437,7 +1437,7 @@
  },
  {
   "clave": "basura_platos_rotos",
-  "archivo": "16_fondo_oceano/basura_platos_rotos.png",
+  "archivo": "basura_platos_rotos.png",
   "descripcion": "Platos rotos",
   "diapositiva_original": 48,
   "x": 64.5,
@@ -1450,7 +1450,7 @@
  },
  {
   "clave": "basura_reproductor",
-  "archivo": "16_fondo_oceano/basura_reproductor.png",
+  "archivo": "basura_reproductor.png",
   "descripcion": "Reproductor portátil con audífonos",
   "diapositiva_original": 48,
   "x": 60.5,
@@ -1463,7 +1463,7 @@
  },
  {
   "clave": "basura_ropa_sucia",
-  "archivo": "16_fondo_oceano/basura_ropa_sucia.png",
+  "archivo": "basura_ropa_sucia.png",
   "descripcion": "Ropa sucia",
   "diapositiva_original": 48,
   "x": 29.8,
@@ -1476,7 +1476,7 @@
  },
  {
   "clave": "basura_ropa_tirada",
-  "archivo": "16_fondo_oceano/basura_ropa_tirada.png",
+  "archivo": "basura_ropa_tirada.png",
   "descripcion": "Ropa tirada",
   "diapositiva_original": 48,
   "x": 85.8,
@@ -1489,7 +1489,7 @@
  },
  {
   "clave": "basura_tv_vieja_1",
-  "archivo": "16_fondo_oceano/basura_tv_vieja_1.png",
+  "archivo": "basura_tv_vieja_1.png",
   "descripcion": "TV de tubo",
   "diapositiva_original": 48,
   "x": 70.7,
@@ -1502,7 +1502,7 @@
  },
  {
   "clave": "basura_tv_vieja_2",
-  "archivo": "16_fondo_oceano/basura_tv_vieja_2.png",
+  "archivo": "basura_tv_vieja_2.png",
   "descripcion": "TV de tubo antigua",
   "diapositiva_original": 48,
   "x": 1.1,
@@ -1515,7 +1515,7 @@
  },
  {
   "clave": "basura_zapato",
-  "archivo": "16_fondo_oceano/basura_zapato.png",
+  "archivo": "basura_zapato.png",
   "descripcion": "Zapato mocasín",
   "diapositiva_original": 48,
   "x": 57.3,
@@ -1528,7 +1528,7 @@
  },
  {
   "clave": "botella_mensaje_escondida",
-  "archivo": "16_fondo_oceano/botella_mensaje_escondida.png",
+  "archivo": "botella_mensaje_escondida.png",
   "descripcion": "Botella con carta escondida entre la basura → pista_ie",
   "diapositiva_original": 48,
   "x": 54.9,
@@ -1541,7 +1541,7 @@
  },
  {
   "clave": "buzo_coral",
-  "archivo": "16_fondo_oceano/buzo_coral.png",
+  "archivo": "buzo_coral.png",
   "descripcion": "Buzo plantando coral",
   "diapositiva_original": 48,
   "x": 84.1,
@@ -1554,7 +1554,7 @@
  },
  {
   "clave": "medusa_buzo",
-  "archivo": "16_fondo_oceano/medusa_buzo.png",
+  "archivo": "medusa_buzo.png",
   "descripcion": "Medusa gigante con buzo",
   "diapositiva_original": 48,
   "x": 1.5,
@@ -1567,7 +1567,7 @@
  },
  {
   "clave": "tortuga_basura",
-  "archivo": "16_fondo_oceano/tortuga_basura.png",
+  "archivo": "tortuga_basura.png",
   "descripcion": "Tortuga comiendo basura",
   "diapositiva_original": 48,
   "x": 78.4,
@@ -1580,7 +1580,7 @@
  },
  {
   "clave": "aleta_pequena",
-  "archivo": "17_playa_libro/aleta_pequena.png",
+  "archivo": "aleta_pequena.png",
   "descripcion": "Aleta de tiburón pequeña",
   "diapositiva_original": 51,
   "x": 55.9,
@@ -1593,7 +1593,7 @@
  },
  {
   "clave": "libro_abierto",
-  "archivo": "17_playa_libro/libro_abierto.png",
+  "archivo": "libro_abierto.png",
   "descripcion": "Libro abierto → quiz_clima",
   "diapositiva_original": 51,
   "x": 61.5,
@@ -1606,7 +1606,7 @@
  },
  {
   "clave": "nino_leyendo",
-  "archivo": "17_playa_libro/nino_leyendo.png",
+  "archivo": "nino_leyendo.png",
   "descripcion": "Niño sentado (dice これを読みたい？)",
   "diapositiva_original": 51,
   "x": 71.3,
@@ -1619,7 +1619,7 @@
  },
  {
   "clave": "ninos_pelota",
-  "archivo": "17_playa_libro/ninos_pelota.png",
+  "archivo": "ninos_pelota.png",
   "descripcion": "Niños jugando con pelota en el agua",
   "diapositiva_original": 51,
   "x": 27.2,
@@ -1632,7 +1632,7 @@
  },
  {
   "clave": "tiburon_punta_negra",
-  "archivo": "17_playa_libro/tiburon_punta_negra.png",
+  "archivo": "tiburon_punta_negra.png",
   "descripcion": "Tiburón de punta negra",
   "diapositiva_original": 51,
   "x": 40.0,
@@ -1645,7 +1645,7 @@
  },
  {
   "clave": "isla",
-  "archivo": "18_isla_monos/isla.png",
+  "archivo": "isla.png",
   "descripcion": "Isla con palmeras al fondo",
   "diapositiva_original": 54,
   "x": 23.1,
@@ -1658,7 +1658,7 @@
  },
  {
   "clave": "monos",
-  "archivo": "18_isla_monos/monos.png",
+  "archivo": "monos.png",
   "descripcion": "Pareja de monos",
   "diapositiva_original": 54,
   "x": 15.0,
@@ -1671,7 +1671,7 @@
  },
  {
   "clave": "nina_desmayada",
-  "archivo": "18_isla_monos/nina_desmayada.png",
+  "archivo": "nina_desmayada.png",
   "descripcion": "Niña desmayada por el calor (dice うそ~)",
   "diapositiva_original": 54,
   "x": 46.7,
@@ -1684,7 +1684,7 @@
  },
  {
   "clave": "nino_relajado",
-  "archivo": "18_isla_monos/nino_relajado.png",
+  "archivo": "nino_relajado.png",
   "descripcion": "Niño relajado (dice いい天気だね)",
   "diapositiva_original": 54,
   "x": 31.2,
@@ -1697,7 +1697,7 @@
  },
  {
   "clave": "rocas",
-  "archivo": "18_isla_monos/rocas.png",
+  "archivo": "rocas.png",
   "descripcion": "Rocas",
   "diapositiva_original": 54,
   "x": 77.4,
@@ -1710,7 +1710,7 @@
  },
  {
   "clave": "sol",
-  "archivo": "18_isla_monos/sol.png",
+  "archivo": "sol.png",
   "descripcion": "Sol rojo (arriba a la derecha)",
   "diapositiva_original": 54,
   "x": 87.4,
@@ -1723,7 +1723,7 @@
  },
  {
   "clave": "sombrilla",
-  "archivo": "18_isla_monos/sombrilla.png",
+  "archivo": "sombrilla.png",
   "descripcion": "Sombrilla",
   "diapositiva_original": 54,
   "x": 9.6,
@@ -1736,7 +1736,7 @@
  },
  {
   "clave": "capitan_humo_negro",
-  "archivo": "19_enfrentamiento/capitan_humo_negro.png",
+  "archivo": "capitan_humo_negro.png",
   "descripcion": "Columna de humo negro con el capitán enemigo encima",
   "diapositiva_original": 20,
   "x": 44.6,
@@ -1749,7 +1749,7 @@
  },
  {
   "clave": "capitana_pirata",
-  "archivo": "19_enfrentamiento/capitana_pirata.png",
+  "archivo": "capitana_pirata.png",
   "descripcion": "Capitana pirata (enemiga) — también en las batallas",
   "diapositiva_original": 20,
   "x": 71.4,
@@ -1762,7 +1762,7 @@
  },
  {
   "clave": "pirata_01",
-  "archivo": "19_enfrentamiento/pirata_01.png",
+  "archivo": "pirata_01.png",
   "descripcion": "Miembro de la banda enemiga: ladrón con bidón",
   "diapositiva_original": 20,
   "x": 45.3,
@@ -1775,7 +1775,7 @@
  },
  {
   "clave": "pirata_02",
-  "archivo": "19_enfrentamiento/pirata_02.png",
+  "archivo": "pirata_02.png",
   "descripcion": "Miembro de la banda enemiga: matón",
   "diapositiva_original": 20,
   "x": 12.9,
@@ -1788,7 +1788,7 @@
  },
  {
   "clave": "pirata_03",
-  "archivo": "19_enfrentamiento/pirata_03.png",
+  "archivo": "pirata_03.png",
   "descripcion": "Miembro de la banda enemiga: estudiante",
   "diapositiva_original": 20,
   "x": 52.4,
@@ -1801,7 +1801,7 @@
  },
  {
   "clave": "pirata_04",
-  "archivo": "19_enfrentamiento/pirata_04.png",
+  "archivo": "pirata_04.png",
   "descripcion": "Miembro de la banda enemiga: pirata",
   "diapositiva_original": 20,
   "x": 60.3,
@@ -1814,7 +1814,7 @@
  },
  {
   "clave": "pirata_05",
-  "archivo": "19_enfrentamiento/pirata_05.png",
+  "archivo": "pirata_05.png",
   "descripcion": "Miembro de la banda enemiga: arquero",
   "diapositiva_original": 20,
   "x": -1.1,
@@ -1827,7 +1827,7 @@
  },
  {
   "clave": "pirata_06",
-  "archivo": "19_enfrentamiento/pirata_06.png",
+  "archivo": "pirata_06.png",
   "descripcion": "Miembro de la banda enemiga: ladrón enmascarado",
   "diapositiva_original": 20,
   "x": -1.0,
@@ -1840,7 +1840,7 @@
  },
  {
   "clave": "pirata_07",
-  "archivo": "19_enfrentamiento/pirata_07.png",
+  "archivo": "pirata_07.png",
   "descripcion": "Miembro de la banda enemiga: guerrero con armadura",
   "diapositiva_original": 20,
   "x": 8.2,
@@ -1853,7 +1853,7 @@
  },
  {
   "clave": "pirata_08",
-  "archivo": "19_enfrentamiento/pirata_08.png",
+  "archivo": "pirata_08.png",
   "descripcion": "Miembro de la banda enemiga: kickboxer",
   "diapositiva_original": 20,
   "x": 26.2,
@@ -1866,7 +1866,7 @@
  },
  {
   "clave": "pirata_09",
-  "archivo": "19_enfrentamiento/pirata_09.png",
+  "archivo": "pirata_09.png",
   "descripcion": "Miembro de la banda enemiga: pirata",
   "diapositiva_original": 20,
   "x": 28.5,
@@ -1879,7 +1879,7 @@
  },
  {
   "clave": "pirata_10",
-  "archivo": "19_enfrentamiento/pirata_10.png",
+  "archivo": "pirata_10.png",
   "descripcion": "Miembro de la banda enemiga: niña",
   "diapositiva_original": 20,
   "x": 26.6,
@@ -1892,7 +1892,7 @@
  },
  {
   "clave": "pirata_11",
-  "archivo": "19_enfrentamiento/pirata_11.png",
+  "archivo": "pirata_11.png",
   "descripcion": "Miembro de la banda enemiga: jefe con penacho",
   "diapositiva_original": 20,
   "x": 39.0,
@@ -1905,7 +1905,7 @@
  },
  {
   "clave": "aliado_arqueologa",
-  "archivo": "20_aliados/aliado_arqueologa.png",
+  "archivo": "aliado_arqueologa.png",
   "descripcion": "Arqueóloga",
   "diapositiva_original": 22,
   "x": 10.8,
@@ -1918,7 +1918,7 @@
  },
  {
   "clave": "aliado_capitan",
-  "archivo": "20_aliados/aliado_capitan.png",
+  "archivo": "aliado_capitan.png",
   "descripcion": "Capitán aliado (sombrero de paja)",
   "diapositiva_original": 22,
   "x": 39.4,
@@ -1931,7 +1931,7 @@
  },
  {
   "clave": "aliado_cocinero",
-  "archivo": "20_aliados/aliado_cocinero.png",
+  "archivo": "aliado_cocinero.png",
   "descripcion": "Cocinero",
   "diapositiva_original": 22,
   "x": -0.8,
@@ -1944,7 +1944,7 @@
  },
  {
   "clave": "aliado_cyborg",
-  "archivo": "20_aliados/aliado_cyborg.png",
+  "archivo": "aliado_cyborg.png",
   "descripcion": "Cyborg",
   "diapositiva_original": 22,
   "x": 8.7,
@@ -1957,7 +1957,7 @@
  },
  {
   "clave": "aliado_espadachin",
-  "archivo": "20_aliados/aliado_espadachin.png",
+  "archivo": "aliado_espadachin.png",
   "descripcion": "Espadachín",
   "diapositiva_original": 22,
   "x": 22.7,
@@ -1970,7 +1970,7 @@
  },
  {
   "clave": "aliado_francotirador",
-  "archivo": "20_aliados/aliado_francotirador.png",
+  "archivo": "aliado_francotirador.png",
   "descripcion": "Francotirador enmascarado",
   "diapositiva_original": 22,
   "x": 79.3,
@@ -1983,7 +1983,7 @@
  },
  {
   "clave": "aliado_navegante",
-  "archivo": "20_aliados/aliado_navegante.png",
+  "archivo": "aliado_navegante.png",
   "descripcion": "Navegante con bastón",
   "diapositiva_original": 22,
   "x": 56.5,
@@ -1996,7 +1996,7 @@
  },
  {
   "clave": "aliado_reno_medico",
-  "archivo": "20_aliados/aliado_reno_medico.png",
+  "archivo": "aliado_reno_medico.png",
   "descripcion": "Reno médico",
   "diapositiva_original": 22,
   "x": 9.1,
@@ -2009,7 +2009,7 @@
  },
  {
   "clave": "aliado_triton",
-  "archivo": "20_aliados/aliado_triton.png",
+  "archivo": "aliado_triton.png",
   "descripcion": "Tritón grande",
   "diapositiva_original": 22,
   "x": 71.4,
@@ -2022,7 +2022,7 @@
  },
  {
   "clave": "nino_soldado",
-  "archivo": "20_aliados/nino_soldado.png",
+  "archivo": "nino_soldado.png",
   "descripcion": "Niño soldado de fondo",
   "diapositiva_original": 22,
   "x": 0.1,
@@ -2035,7 +2035,7 @@
  },
  {
   "clave": "soldados_fondo",
-  "archivo": "20_aliados/soldados_fondo.png",
+  "archivo": "soldados_fondo.png",
   "descripcion": "Soldados de fondo",
   "diapositiva_original": 22,
   "x": 84.3,
@@ -2048,7 +2048,7 @@
  },
  {
   "clave": "aliado_capitan_pelea",
-  "archivo": "21_batallas/aliado_capitan_pelea.png",
+  "archivo": "aliado_capitan_pelea.png",
   "descripcion": "Capitán aliado en pose de pelea (batallas)",
   "diapositiva_original": 23,
   "x": 0.5,
